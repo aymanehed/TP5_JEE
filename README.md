@@ -23,11 +23,11 @@
 Because just admin can create Products 
 
 # Admin 
-## Default Page After Login 
-<img width="473" alt="admin_dp" src="https://github.com/aymanehed/TP5_JEE/assets/93987581/42052838-d1ba-4b8a-8653-4f277d8bbb60">
-
 ## Admin Connection
 <img width="960" alt="admin_co" src="https://github.com/aymanehed/TP5_JEE/assets/93987581/26b37b03-2c4a-4038-a8f3-a8cfbb20069a">
+
+## Default Page After Login 
+<img width="473" alt="admin_dp" src="https://github.com/aymanehed/TP5_JEE/assets/93987581/42052838-d1ba-4b8a-8653-4f277d8bbb60">
 
 ## Home Page
 <img width="479" alt="admin_home" src="https://github.com/aymanehed/TP5_JEE/assets/93987581/2f4cc904-14b0-41d4-864f-070d6709c20b">
